@@ -50,3 +50,13 @@ button {
   border: none;
   cursor: pointer;
 }
+
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+  object-fit: cover;
+}
